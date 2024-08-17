@@ -20,8 +20,6 @@
 - **Fátima P. A. Teixeira** (Sidia Institute of Science and Technology)
 - **Evandro S. M. Da Silva** (Sidia Institute of Science and Technology)
 
-## Acknowledgements
-
 This work was partially supported by Samsung Eletrônica da Amazônia Ltda., under the auspice of the informatic law no 8.387/91, in the scope of the Advanced 5G Protocol project.
 
 ## License
